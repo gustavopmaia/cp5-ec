@@ -37,7 +37,7 @@ float calcularMedia(const int valores[]) {
 const char* WIFI_SSID = "Wokwi-GUEST";
 const char* WIFI_SENHA = "";
 const char* URL_MANIFESTO =
-  "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/version.json";
+  "https://raw.githubusercontent.com/gustavopmaia/cp5-ec/main/version.json";
 bool consultaIniciada = false;
 
 bool conectarWifi() {
